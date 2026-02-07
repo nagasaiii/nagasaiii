@@ -66,6 +66,16 @@ Production-grade K8s cluster in a single Docker container with complete observab
 
 **Tech:** Kubernetes, Docker, Helm, Prometheus, Grafana, FastAPI, PostgreSQL
 
+### 🎯 [Azure-IAC](https://github.com/nagasaiii/Azure-IAC.git)
+A production-grade Infrastructure as Code (IaC) project demonstrating automated Azure resource provisioning using Terraform with GitHub Actions CI/CD pipeline. Built with cost optimization and DevOps best practices in mind.
+- 🔹Automated Infrastructure Provisioning - One-click deployment via GitHub Actions
+- 🔹Remote State Management - Terraform state stored in Azure Blob Storage with versioning
+- 🔹Cost Optimized - Basic tier resources with immediate teardown capability
+- 🔹Secure Authentication - Service Principal with GitHub Secrets integration
+- 🔹Idempotent Deployments - Reliable, repeatable infrastructure creation
+- 🔹Manual Triggers - Workflow dispatch for controlled deployments
+- 🔹Comprehensive Documentation - Detailed setup guides and cost analysis
+
 ### 🎯 [dynamic-jenkins-monorepo-pipeline](https://github.com/nagasaiii/dynamic-jenkins-monorepo-pipeline)
 in progress....
 
